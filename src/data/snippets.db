@@ -1,0 +1,3 @@
+The snippets.db file is a SQLite database file and is typically created and managed by the application itself rather than being manually populated with content. Therefore, this file will be intentionally left blank as it will be generated and populated by your Streamlit app during runtime.
+
+# This file is intentionally left blank.
