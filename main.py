@@ -7,7 +7,7 @@ from streamlit.web import cli as stcli
 def main():
     # RUN STREAMLIT ------------------------------------------------------------------------
     # https://stackoverflow.com/questions/62760929/how-can-i-run-a-streamlit-app-from-within-a-python-script
-    sys.argv = ["streamlit", "run", "src/pages/app.py"]
+    sys.argv = ["streamlit", "run", "📖_Code_Bible.py"]
     sys.exit(stcli.main())
 
 
